@@ -10,8 +10,8 @@ namespace VSGitDemoA
     {
         static void Main(string[] args)
         {
-            var a = 3;
-            var b = 1.2f;
+            //123
+            
         }
     }
 }
